@@ -4,7 +4,7 @@ import { Container } from '../styles/container';
 function About() {
   return (
     <Container>
-      <h1>About</h1>
+      <h1>bumass nam Craniel</h1>
     </Container>
   );
 }
