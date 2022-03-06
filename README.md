@@ -1,3 +1,3 @@
 # Googz
 
-duh Googz homepage
+[Click if bum](https://vibrant-mccarthy-dedb0e.netlify.app/)
