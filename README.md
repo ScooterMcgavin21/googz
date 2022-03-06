@@ -1,3 +1,3 @@
 # Googz
 
-Google homepage using CRA and styled components
+duh Googz homepage
